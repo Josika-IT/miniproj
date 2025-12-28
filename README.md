@@ -40,3 +40,7 @@ To design and implement a menu-driven ATM management application in C that perfo
 --------
 ## Conclusion
 This project demonstrates the use of C programming concepts such as structures, file handling, and menu-driven logic to simulate basic ATM operations.
+--------
+## Sample File
+- sample_input&output.txt : Contains both sample input and corresponding output
+
