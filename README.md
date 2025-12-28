@@ -1,8 +1,10 @@
 ##ATM Management System 
 -----
 Team Details
--Team Number: TEAM 5
--Project Title: ATM Management System
+Team Number: TEAM 5
+
+Project Title: ATM Management System
+
 ----------
 Objective
 To design and implement a menu-driven ATM management application in C that performs basic banking operations using structures and file handling.
