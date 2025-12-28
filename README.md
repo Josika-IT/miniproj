@@ -38,9 +38,14 @@ To design and implement a menu-driven ATM management application in C that perfo
 2. Run the executable  
 3. Follow the on-screen ATM menu
 --------
+## Sample File
+- sample_input&output.txt : Contains both sample input and corresponding output
+-------
+## How to Compile and Run
+gcc miniproj.c -o miniproj
+./miniproj
+--------
 ## Conclusion
 This project demonstrates the use of C programming concepts such as structures, file handling, and menu-driven logic to simulate basic ATM operations.
 --------
-## Sample File
-- sample_input&output.txt : Contains both sample input and corresponding output
 
